@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 
 TARGET_URL = "https://gamership.org/go/new/"
 KEYWORD = "gacor300"
-NUM_THREADS = 3
+NUM_THREADS = 10
 WAVE_DELAY = 10
 TOTAL_STAY_TIME = 60 
 
